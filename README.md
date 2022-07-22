@@ -15,12 +15,14 @@ Penggunaan sigmoid bertujuan untuk mengklasifikasikan ke 2 kelas yaitu 0 dan 1
 
 - Optimizer menggunakan adam
 
-Adam adalah algoritma optimasi pengganti untuk stochastic gradient descent untuk training model deep learning. Adam menggabungkan sifat-sifat terbaik dari algoritma AdaGrad dan RMSProp untuk memberikan optimization algorithm yang dapat menangani sparse gradients pada noisy problem.
+- Adam adalah algoritma optimasi pengganti untuk stochastic gradient descent untuk training model deep learning. Adam menggabungkan sifat-sifat terbaik dari algoritma AdaGrad dan RMSProp untuk memberikan optimization algorithm yang dapat menangani sparse gradients pada noisy problem.
 (https://lms.onnocenter.or.id)
 
 ![image](https://user-images.githubusercontent.com/87703066/180413480-16d25454-5c9a-480a-9581-4a600790349e.png)
 
 Source (https://towardsdatascience.com/)
+
+
 
 
 
