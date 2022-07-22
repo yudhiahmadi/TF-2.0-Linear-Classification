@@ -1,4 +1,5 @@
 # TF 2.0 Linear Classification
+![image](https://user-images.githubusercontent.com/87703066/180477833-a9cc47bd-33c2-4519-a90f-aeca2c3104f4.png)
 
 Pembuatan model klasifikasi dengan menggunakan tensorflow v2
 
